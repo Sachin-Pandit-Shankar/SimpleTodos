@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+.text {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+}

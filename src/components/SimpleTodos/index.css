@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  padding: 40px;
+}
+.todo-container {
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 45px;
+  text-align: center;
+  padding-top: 20px;
+}
